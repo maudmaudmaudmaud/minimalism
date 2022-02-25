@@ -1,0 +1,68 @@
+#albers2 section {
+	background-color: #f1f0ea;
+	height: 370px;
+	width: 290px;
+	padding: 75px 85px;
+}
+
+#albers2 div {
+  height: 100%;
+	padding-bottom: 6%;
+	padding-left: 3%;
+	padding-right: 3%;
+	padding-top: 6%;
+  width: 100%;
+  border-style: solid;
+  border-bottom-width: 3px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-top-width: 3px;
+}
+
+#albers2 section > div > div > div > div > div > div > div {
+  border-style: solid;
+  border-bottom-width: 1px;
+  border-left-width: 3px;
+  border-right-width: 3px;
+  border-top-width: 1px;
+}
+
+#albers2 section > div > div > div > div > div > div > div > div {
+  border-style: solid;
+  border-bottom-width: 1px;
+  border-left-width: 3px;
+  border-right-width: 3px;
+  border-top-width: 1px;
+}
+
+#albers2 section > div > div > div > div > div > div > div > div > div {
+  border-style: solid;
+  border-bottom-width: 1px;
+  border-left-width: 3px;
+  border-right-width: 3px;
+  border-top-width: 1px;
+}
+
+#albers2 section > div > div > div > div > div > div > div> div > div > div {
+  border-style: solid;
+  border-bottom-width: 1px;
+  border-left-width: 3px;
+  border-right-width: 3px;
+  border-top-width: 1px;
+}
+
+#albers2 section > div > div > div > div > div > div > div > div > div > div > div {
+  border-style: solid;
+  border-bottom-width: 1px;
+  border-left-width: 3px;
+  border-right-width: 3px;
+  border-top-width: 1px;
+}
+
+#albers2 section > div > div > div > div > div > div > div > div > div > div > div > div {
+  border-style: solid;
+  border-bottom-width: 1px;
+  border-left-width: 3px;
+  border-right-width: 3px;
+  border-top-width: 1px;
+}
