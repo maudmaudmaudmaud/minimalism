@@ -22,7 +22,11 @@ figure:not(:first-child) {
 /* This is the corresponding semantic caption element. */
 figcaption {
 	margin-top: 20px;
-	color: rgba(0, 0, 0, 0.33); /* Semi-transparent black. */
+	color: rgba(12, 40, 229, 0.50);
+}
+
+figcaption:hover {
+	color: rgba(12, 40, 229);
 }
 
 section {
